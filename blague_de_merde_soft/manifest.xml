@@ -13,6 +13,15 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="devinette">
+   <nature>solitary</nature>
+   <names>
+    <name lang="en_US">Emotions_detections</name>
+   </names>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
