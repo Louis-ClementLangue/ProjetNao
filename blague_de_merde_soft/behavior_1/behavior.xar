@@ -25,12 +25,13 @@ class MyClass(GeneratedClass):
 		GeneratedClass.__init__(self)
 
 	def onInput_onStart(self):
-		self.onStopped("")]]>
+		self.onStopped("  quelle est la difference entre un chewin-gum et un avion?\n  un chewi-gum ça colle et un avion ça décolle")]]>
                 </content>
               </script>
               <pluginContent>
                 <text>
-                  <![CDATA[]]>
+                  <![CDATA[  quelle est la difference entre un chewin-gum et un avion?
+  un chewi-gum ça colle et un avion ça décolle]]>
                 </text>
               </pluginContent>
               <Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" />
@@ -424,12 +425,12 @@ class MyClass(GeneratedClass):
 		GeneratedClass.__init__(self)
 
 	def onInput_onStart(self):
-		self.onStopped("")]]>
+		self.onStopped("Deux tomates traversent la rue. L\'une des deux se fait écraser. L\'autre tomate dit: \"Tu viens, Ketchup!\"")]]>
                 </content>
               </script>
               <pluginContent>
                 <text>
-                  <![CDATA[]]>
+                  <![CDATA[Deux tomates traversent la rue. L'une des deux se fait écraser. L'autre tomate dit: "Tu viens, Ketchup!"]]>
                 </text>
               </pluginContent>
               <Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" />
