@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="blague_de_merde_soft-1ab888">
+<package uuid="blague_de_merde_soft-1ab888" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -13,15 +13,10 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="devinette">
-   <nature>solitary</nature>
-   <names>
-    <name lang="en_US">Emotions_detections</name>
-   </names>
-   <autonomous/>
+  <behaviorContent path="charades_devinettes">
+   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
  </contents>

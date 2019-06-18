@@ -3,10 +3,13 @@
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="devinette" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="charades_devinettes" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="elevator-music" src="elevator-music.wav" />
+        <File name="camera1" src="charades_devinettes/camera1.ogg" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
     <Translations auto-fill="en_US">
