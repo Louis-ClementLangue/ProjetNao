@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="ninja-c10e61">
+<package uuid="squenceattente1-b0f42c" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -10,8 +10,11 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="behavior_1">
-   <userRequestable/>
+  <behaviorContent path="root">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
