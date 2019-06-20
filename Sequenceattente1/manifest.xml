@@ -1,28 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="squenceattente1-b0f42c" version="0.0.0">
+<package version="0.0.1" uuid="squenceattente1-b0f42c">
  <names>
-  <name lang="en_US">Untitled</name>
+  <name lang="en_US">Attente3</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
+  <language>fr_FR</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
+  <language>fr_FR</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="root">
+  <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>
    <autonomous/>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="jeu_pierre_feuille_ciseau">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="floss_fr">
-   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="EyeofTheTiger">
@@ -31,6 +25,13 @@
   </behaviorContent>
   <behaviorContent path="BOB">
    <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="attente3">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
