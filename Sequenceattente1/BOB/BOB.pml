@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Package name="FlossFrtnt" format_version="4">
+<Package name="BOB" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
-        <File name="FORTNITE FLOSS" src="FORTNITE FLOSS.mp3" />
+        <File name="Bob l&amp;#39;éponge _ Générique _ Nickelodeon France" src="Bob l&amp;#39;éponge _ Générique _ Nickelodeon France.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
