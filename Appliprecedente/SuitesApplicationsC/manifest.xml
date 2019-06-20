@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="suitesapplicationsc-63daac">
+ <names>
+  <name lang="en_US">SuitesApplicationsC</name>
+  <name lang="fr_FR">SuitesApplicationsC</name>
+ </names>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="calme1">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme1</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="calme2">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme2</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="calme3">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme3</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="calme4">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme4</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="calme5">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme5</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="calme6">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">calme6</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="suitesapplicationse-beaeba">
+ <names>
+  <name lang="en_US">SuitesApplicationsE</name>
+  <name lang="fr_FR">SuitesApplicationsE</name>
+ </names>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="energique1">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">energique1</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="energique2">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">energique2</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="energique3">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">energique3</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="energique4">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">energique4</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="energique5">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">energique5</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

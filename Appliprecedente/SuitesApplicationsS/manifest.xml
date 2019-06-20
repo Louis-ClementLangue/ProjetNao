@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="suitesapplicationss-c61012">
+ <names>
+  <name lang="en_US">SuitesApplicationsS</name>
+  <name lang="fr_FR">SuitesApplicationsS</name>
+ </names>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="soin1">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin1</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin2">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin2</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin3">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin3</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin4">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin4</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin5">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin5</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin6">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin6</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin7">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin7</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="soin8">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">soin8</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
