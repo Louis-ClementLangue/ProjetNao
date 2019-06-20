@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="squenceattente1-b0f42c" version="0.0.0">
+<package version="0.0.0" uuid="squenceattente1-b0f42c">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -12,26 +12,21 @@
  <contents>
   <behaviorContent path="root">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="floss_fr">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="EyeofTheTiger">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="starwars">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
