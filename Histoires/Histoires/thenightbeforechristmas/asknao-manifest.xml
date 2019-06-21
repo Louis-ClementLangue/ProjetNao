@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest versionCode="1.0.5" naoqiVersion="1.22">
+<natures>
+     <nature>reward</nature>
+</natures>
+<types>
+     <type>story</type>
+</types>
+<icon>http://developer.aldebaran-robotics.com/media/uploads/Celine/nightbeforeChristmas.png</icon>
+<resources>
+	<resource>NAO</resource>
+</resources>
+<local language="english">
+    <name>The Night Before Christmas Story</name>
+    <description>Tells the night before christmas.</description>
+    <triggers>      
+     <triggerSentences>
+        <sentence>The Night Before Christmas</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>This is my favourite Christmas story.</loadingsentence>
+      <loadingsentence>I hope you will enjoy it.</loadingsentence>
+      <loadingsentence>I told Santa Claus that I wanted to perform this story, yeah!</loadingsentence>
+      <loadingsentence>We're having such a good time and I love Christmas.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="french">
+    <name>La veille de Noël</name>
+    <description>Récitation de l'histoire la veille de Noël</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>la veille de Noël</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>C'est mon histoire de Noël préférée.</loadingsentence>
+      <loadingsentence>J'espère que vous allez l'apprécier.</loadingsentence>
+      <loadingsentence>ça tombe bien j'avais demandé au père noël de pouvoir la raconter.</loadingsentence>
+      <loadingsentence>On s'amuse bien et puis c'est trop génial Noël !</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="german">
+    <name>Als der Nikolaus kam</name>
+    <description>Nao erzählt Als der Nikolaus kam</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>Als der Nikolaus kam</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Das ist meine Lieblingsweihnachtsgeschichte</loadingsentence>
+      <loadingsentence>Ich hoffe, das gefällt dir</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="spanish">
+    <name>La historia de la Noche antes de Navidad</name>
+    <description>Dice la noche antes de Navidad.</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>La noche antes de Navidad</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Esta es mi historia favorita de Navidad.</loadingsentence>
+      <loadingsentence>Espero que lo disfruten.</loadingsentence>
+    </loadingsentences>
+  </local>
+</manifest>

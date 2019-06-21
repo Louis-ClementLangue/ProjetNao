@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="histoires-04eca4">
+ <names>
+  <name lang="en_US">Histoires</name>
+  <name lang="fr_FR">Histoires</name>
+ </names>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Histoire">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">Histoire</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="3mousquetaires">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">3mousquetaires</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="chaperonrouge">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">chaperonrouge</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="contenoel">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">contenoel</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="lionsouris">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">lionsouris</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="piratestory">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">piratestory</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="roimidas">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">roimidas</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="samsondalila">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">samsondalila</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="starwars">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">starwars</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="thenightbeforechristmas">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">thenightbeforechristmas</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

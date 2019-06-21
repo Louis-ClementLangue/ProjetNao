@@ -14,9 +14,6 @@
  <contents>
   <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="EyeofTheTiger">
@@ -29,9 +26,6 @@
   </behaviorContent>
   <behaviorContent path="attente3">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
