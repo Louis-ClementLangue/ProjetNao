@@ -13,11 +13,25 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>solitary</nature>
+   <names>
+    <name lang="en_US">blagues_aleatoires</name>
+   </names>
    <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="charades_devinettes">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">charade1</name>
+   </names>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="charade2">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">charade2</name>
+   </names>
    <autonomous/>
    <permissions/>
   </behaviorContent>

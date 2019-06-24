@@ -4,6 +4,7 @@
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="charades_devinettes" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="charade2" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
