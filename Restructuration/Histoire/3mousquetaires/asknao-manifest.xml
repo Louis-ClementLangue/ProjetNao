@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest versionCode="1.0.2" naoqiVersion="1.12">
+<natures>
+     <nature>reward</nature>
+</natures>
+<types>
+     <type>story</type>
+</types>
+<icon>http://store.aldebaran-robotics.com/static/cache/ee/d6/eed66db7fa4022cf17a8062d79ca81f7.png</icon>
+<resources>
+	<resource>NAO</resource>
+</resources>
+<local language="english">
+    <name>the 3 musketeers story</name>
+    <description>Tell a summary of the 3 musketeers story.</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>3 musketeers</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Athos, Porthos, Aramis et d'Artagnan are great musketeers</loadingsentence>
+      <loadingsentence>The french writer Alexandre Dumas wrote this novel in 1844.</loadingsentence>
+      <loadingsentence>This story happened during the 17th century.</loadingsentence>
+      <loadingsentence>Alexandre Dumas was inspired by the writings of Charles de Batz d'Artagnan Castelmore.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="french">
+    <name>L'histoire des trois mousquetaires</name>
+    <description>Récitation de l'histoire résumée des trois mousquetaires.</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>trois mousquetaires</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Athos, Porthos, Aramis et d'Artagnan : ils sont trop forts</loadingsentence>
+      <loadingsentence>C'est Alexandre Dumas qui a écrit ce roman en 1844.</loadingsentence>
+      <loadingsentence>Cette histoire se déroule au dix-septième siècle.</loadingsentence>
+      <loadingsentence>Alexandre Dumas s'est inspiré des écrits de Charles de Batz de Castelmore d'Artagnan pour le héro de son roman.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="spanish">
+    <name>La Historia de los 3 mosqueteros</name>
+    <description>Contar un resumen de la historia de los 3 mosqueteros.</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>3 mosqueteros</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Athos, Porthos, Aramis y D'Artagnan son mosqueteros muy poderosos!</loadingsentence>
+      <loadingsentence>El escritor francés Alexandre Dumas escribió esta novela en 1844.</loadingsentence>
+      <loadingsentence>Esta historia sucedió durante el siglo 17.</loadingsentence>
+      <loadingsentence>Alexandre Dumas se inspiró de los escritos de Charles de Batz d'Artagnan Castelmore.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="german">
+    <name>Die drei Musketiere</name>
+    <description>Nao erzählt eine Zusammenfassung der Geschichte "Die drei Musketiere"</description>
+    <triggers>      
+      <triggerSentences>
+        <sentence>3 Musketiere</sentence>
+      </triggerSentences>
+    </triggers>    
+    <loadingsentences>
+      <loadingsentence>Athos, Porthos, Aramis und d'Artagnan sind großartige Musketiere!</loadingsentence>
+      <loadingsentence>Der französische Schriftsteller Alexandre Düma hat diese Geschichte 1844 geschrieben.</loadingsentence>
+      <loadingsentence>Diese Geschichte handelte im 17. Jahrhundert</loadingsentence>
+      <loadingsentence>Alexandre Düma wurde von den Geschichten von Charles de Batz d'Artagnan Castelmore inspiriert.</loadingsentence>
+    </loadingsentences>
+  </local>
+
+
+</manifest>

@@ -1,0 +1,13 @@
+<autism>
+    <types>
+     <type>story</type>
+     <type>Pirate Story</type>
+    </types>
+    <resources>
+        <resource>NAO</resource>
+    </resources>
+ 
+    <natures>
+     <nature>reward</nature>
+    </natures>
+ </autism>
