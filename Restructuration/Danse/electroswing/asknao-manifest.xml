@@ -1,0 +1,13 @@
+<autism>
+    <types>
+     <type>dance</type>
+     <type>Electro Swing</type>
+    </types>
+    <resources>
+        <resource>NAO</resource>
+    </resources>
+ 
+    <natures>
+     <nature>reward</nature>
+    </natures>
+ </autism>
