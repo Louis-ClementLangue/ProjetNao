@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="general-f86f5a" version="0.0.0">
+ <names>
+  <name lang="en_US">Generaux</name>
+  <name lang="fr_FR">General</name>
+ </names>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Protection">
+   <nature>interactive</nature>
+   <names>
+    <name lang="fr_FR">Protection</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="General">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

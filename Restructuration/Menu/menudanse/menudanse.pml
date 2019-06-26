@@ -2,7 +2,7 @@
 <Package name="menudanse" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="." xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="untitled-089892">
+<package uuid="untitled-089892" version="0.0.0">
  <names>
   <name lang="en_US">menuhistoire</name>
  </names>
@@ -9,10 +9,5 @@
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
- <contents>
-  <behaviorContent path="behavior_1">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
- </contents>
+ <contents/>
 </package>
