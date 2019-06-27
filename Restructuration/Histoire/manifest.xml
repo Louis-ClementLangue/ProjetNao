@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="histoire-e333fd" version="0.0.0">
+ <names>
+  <name lang="en_US">Histoires</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="3mousquetaires">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Histoire">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="chaperonrouge">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="contenoel">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="lionsouris">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="piratestory">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="roimidas">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="samsondalila">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="starwars">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="thenightbeforechristmas">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

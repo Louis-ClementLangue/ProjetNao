@@ -2,11 +2,11 @@
 <Package name="BOB" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="." xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
-        <File name="Bob l&amp;#39;éponge _ Générique _ Nickelodeon France" src="Bob l&amp;#39;éponge _ Générique _ Nickelodeon France.mp3" />
+        <File name="Bob" src="Bob.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
