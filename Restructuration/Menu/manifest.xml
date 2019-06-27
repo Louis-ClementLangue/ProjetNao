@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="menu-192816">
+<package uuid="menu-192816" version="0.0.0">
  <names>
   <name lang="en_US">Menus</name>
  </names>
@@ -12,9 +12,6 @@
  <contents>
   <behaviorContent path="menudanse">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="menuhistoire">
@@ -23,16 +20,10 @@
   </behaviorContent>
   <behaviorContent path="menujeu">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="menucomptines">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>

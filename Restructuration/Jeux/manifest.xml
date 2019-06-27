@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="jeux-3eff24">
+<package uuid="jeux-3eff24" version="0.0.0">
  <names>
   <name lang="en_US">jeux</name>
  </names>
@@ -12,6 +12,16 @@
  <contents>
   <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="blindtestdisney">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
