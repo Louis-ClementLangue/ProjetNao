@@ -11,6 +11,8 @@
         <File name="La famille Tortue" src="mp3/La famille Tortue.mp3" />
         <File name="Le Livre de la Jungle - Il en faut peu pour être heureux" src="mp3/Le Livre de la Jungle - Il en faut peu pour être heureux.mp3" />
         <File name="translation_en_US" src="translations/translation_en_US.csp" />
+        <File name="" src=".DS_Store" />
+        <File name="" src="mp3/.DS_Store" />
     </Resources>
     <Topics />
     <IgnoredPaths />

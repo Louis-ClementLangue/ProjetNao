@@ -12,6 +12,10 @@
  <contents>
   <behaviorContent path="Soin2">
    <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Soin1">
+   <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>
    <autonomous/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="jeux-3eff24" version="0.0.0">
+<package version="0.0.0" uuid="blindtest1-401d37">
  <names>
-  <name lang="en_US">jeux</name>
+  <name lang="en_US">Untitled</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
@@ -10,14 +10,8 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="jeu_pierre_feuille_ciseau">
-   <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="blindtestdisney">
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
    <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>
