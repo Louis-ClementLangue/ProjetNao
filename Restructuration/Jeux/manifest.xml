@@ -12,16 +12,14 @@
  <contents>
   <behaviorContent path="jeu_pierre_feuille_ciseau">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="blindtestdisney">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="blindtestgenerique">
+   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
  </contents>

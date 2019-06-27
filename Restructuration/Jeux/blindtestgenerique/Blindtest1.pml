@@ -2,7 +2,6 @@
 <Package name="Blindtest1" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="." xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
@@ -23,6 +22,7 @@
         <File name="TomEtJerry" src="TomEtJerry.mp3" />
         <File name="TotallySpies" src="TotallySpies.mp3" />
         <File name="Winx" src="Winx.mp3" />
+        <File name="" src=".DS_Store" />
     </Resources>
     <Topics />
     <IgnoredPaths />
