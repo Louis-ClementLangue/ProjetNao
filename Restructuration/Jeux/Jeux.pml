@@ -4,7 +4,6 @@
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="jeu_pierre_feuille_ciseau" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="blindtestgenerique" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="blindtestgenerique/behavior_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="blindtestdisney" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
@@ -41,6 +40,7 @@
         <File name="Toy Story - Je suis ton ami I Disney_01" src="blindtestdisney/Toy Story - Je suis ton ami I Disney_01.mp3" />
         <File name="manifest" src="blindtestdisney/manifest.xml" />
         <File name="reinedesneigescut" src="blindtestdisney/reinedesneigescut.mp3" />
+        <File name="" src=".DS_Store" />
     </Resources>
     <Topics />
     <IgnoredPaths />

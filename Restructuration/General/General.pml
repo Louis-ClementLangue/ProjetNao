@@ -21,18 +21,14 @@
         <File name="popup" src="General/behavior_1/Danses/electroswing/sounds/popup.wav" />
         <File name="Macarena" src="General/behavior_1/Danses/macarena/Macarena.mp3" />
         <File name="Cendrillon - Bibbidi-Bobbidi-Boo" src="General/mp3/Cendrillon - Bibbidi-Bobbidi-Boo.mp3" />
-        <File name="Frère des ours - Je men vais" src="General/mp3/Frère des ours - Je men vais.mp3" />
         <File name="Kendji Girac - Color Gitano" src="General/mp3/Kendji Girac - Color Gitano.mp3" />
-        <File name="Le Roi Lion - Hakuna Matata" src="General/mp3/Le Roi Lion - Hakuna Matata.mp3" />
-        <File name="Mulan- Comme un homme" src="General/mp3/Mulan- Comme un homme.mp3" />
-        <File name="Tarzan - Enfant de lhomme" src="General/mp3/Tarzan - Enfant de lhomme.mp3" />
         <File name="Raiponce - Où est la vraie vie" src="General/mp3/Raiponce - Où est la vraie vie.mp3" />
-        <File name="Rebelle - Vers le Ciel" src="General/mp3/Rebelle - Vers le Ciel.mp3" />
         <File name="Asterix et Cleopatre - Le Pudding à l&apos;arsenic" src="General/mp3/Asterix et Cleopatre - Le Pudding à l&apos;arsenic.mp3" />
         <File name="Hercule - Jamais je navouerai" src="General/Musique/mp3/Hercule - Jamais je navouerai.mp3" />
         <File name="Les Aristochats - Tout le monde veut devenir un cat" src="General/Musique/mp3/Les Aristochats - Tout le monde veut devenir un cat.mp3" />
         <File name="" src=".DS_Store" />
         <File name="" src="General/.DS_Store" />
+        <File name="" src="General/Musique/.DS_Store" />
     </Resources>
     <Topics />
     <IgnoredPaths />
