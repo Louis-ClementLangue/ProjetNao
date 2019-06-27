@@ -8,6 +8,7 @@
         <BehaviorDescription name="behavior" src="electroswing" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="macarena" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="cottonEyedJoe" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="BabyShark" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -27,6 +28,9 @@
         <File name="Macarena" src="macarena/Macarena.mp3" />
         <File name="rednex-cotton-eye-joe-official-music-video-hd-rednexmusic-com" src="cottonEyedJoe/Media/rednex-cotton-eye-joe-official-music-video-hd-rednexmusic-com.mp3" />
         <File name="manifest" src="cottonEyedJoe/manifest.xml" />
+        <File name="Baby Shark Dance _ Sing and Dance! _ Animal Songs _ PINKFONG Songs for Children" src="BabyShark/Baby Shark Dance _ Sing and Dance! _ Animal Songs _ PINKFONG Songs for Children.mp3" />
+        <File name="BabyShark" src="BabyShark/BabyShark.pml" />
+        <File name="manifest" src="BabyShark/manifest.xml" />
     </Resources>
     <Topics />
     <IgnoredPaths />

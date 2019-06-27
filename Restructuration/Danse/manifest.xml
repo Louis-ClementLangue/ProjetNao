@@ -12,6 +12,9 @@
  <contents>
   <behaviorContent path="BOB">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="EyeofTheTiger">
@@ -32,6 +35,13 @@
   </behaviorContent>
   <behaviorContent path="cottonEyedJoe">
    <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="BabyShark">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
