@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="menu-192816" version="0.0.0">
+<package version="0.0.0" uuid="menu-192816">
  <names>
   <name lang="en_US">Menus</name>
  </names>

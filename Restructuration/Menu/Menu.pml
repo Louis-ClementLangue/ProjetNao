@@ -4,6 +4,8 @@
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="menudanse" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="menuhistoire" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="menujeu" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="menucomptines" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -13,6 +15,8 @@
         <File name="manifest" src="menuhistoire/manifest.xml" />
         <File name="manifest" src="menujeu/manifest.xml" />
         <File name="menujeu" src="menujeu/menujeu.pml" />
+        <File name="manifest" src="menucomptines/manifest.xml" />
+        <File name="menucomptines" src="menucomptines/menucomptines.pml" />
     </Resources>
     <Topics />
     <IgnoredPaths />
